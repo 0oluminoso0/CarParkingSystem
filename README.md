@@ -1,4 +1,5 @@
 # CarParkingSystem
+(Prototype Not Update yet)
 
 Project Car Parking System is designed to automatically detect available empty parking slots.
 When a slot is empty, new vehicles are allowed to enter the parking. However, if the slot is full, the entrance is blocked using a servo controlled by an Arduino UNO and WeMosD1R1. 
